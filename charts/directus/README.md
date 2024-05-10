@@ -91,4 +91,3 @@ extraEnvVars:
 
 1. Test on a couple of clusters
 2. Add a values.production.yaml file that deploys an HA setup
-
